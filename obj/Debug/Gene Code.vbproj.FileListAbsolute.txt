@@ -1,0 +1,22 @@
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\Gene Code.exe.config
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\Gene Code.exe
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\Gene Code.pdb
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\Gene Code.xml
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\MetroFramework.Design.dll
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\MetroFramework.dll
+D:\My Work\VB\Gene Code\Gene Code\bin\Debug\MetroFramework.Fonts.dll
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.frmAbout.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmAccessCode.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmAccessLog.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmPocedureList.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.frmSpecialMethode.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmSQLCode.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmSQLLog.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmSQLMultiple.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.FrmWelcom.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene_Code.Resources.resources
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene Code.vbproj.GenerateResource.Cache
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene Code.exe
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene Code.xml
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene Code.pdb
+D:\My Work\VB\Gene Code\Gene Code\obj\Debug\Gene Code.vbprojResolveAssemblyReference.cache
